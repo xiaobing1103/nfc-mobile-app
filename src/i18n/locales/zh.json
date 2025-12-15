@@ -1,0 +1,36 @@
+{
+  "common": {
+    "confirm": "确认",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "back": "返回",
+    "loading": "加载中..."
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录",
+    "email": "邮箱",
+    "password": "密码",
+    "forgotPassword": "忘记密码？"
+  },
+  "home": {
+    "title": "首页",
+    "welcome": "欢迎使用 NFC 数字名片"
+  },
+  "card": {
+    "title": "名片管理",
+    "myCards": "我的名片",
+    "createCard": "创建名片"
+  },
+  "analytics": {
+    "title": "数据分析"
+  },
+  "user": {
+    "title": "用户中心",
+    "profile": "个人资料",
+    "settings": "设置"
+  }
+}
